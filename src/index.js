@@ -1,0 +1,1 @@
+import Form from './js/components/container/Form';
